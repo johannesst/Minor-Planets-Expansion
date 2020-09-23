@@ -3,8 +3,6 @@ This is derived from https://forum.kerbalspaceprogram.com/index.php?/topic/19284
 
 My changes in the initial commit compared to the version of Exo's Lab from the forum:
 
-https://forum.kerbalspaceprogram.com/index.php?/profile/203651-exos-lab/
-
 1. added the support patch for Kerbalism by @IIodyne from https://forum.kerbalspaceprogram.com/index.php?/topic/192848-181-planet-pack-minor-planets-expansion/&do=findComment&comment=3823836
 2. added the fixes by @Coolguybest from https://forum.kerbalspaceprogram.com/index.php?/topic/192848-181-planet-pack-minor-planets-expansion/&do=findComment&comment=3828412
 3. added the Final Frontier ribbons by @hemeac from https://forum.kerbalspaceprogram.com/index.php?/topic/192848-181-planet-pack-minor-planets-expansion/&do=findComment&comment=3823830
