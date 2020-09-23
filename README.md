@@ -11,6 +11,7 @@ My changes in the initial commit compared to the version of Exo's Lab from the f
    (points to https://github.com/IIodyne/Principia_PlanetPatches/blob/master/GameData/Principia_PlanetPatches/Principia_MPE.cfg)
 
 It uses the Kopernicus features useOnDemand and useManualMemoryManagement.
+	No more RAM-hogging! Well, at least I hope it.
 The mix-max of tab intends and space intends is converted to all tab intends.
 Added a Localization template for ResearchBodies.
 Added a support patch for ResearchBodies.
